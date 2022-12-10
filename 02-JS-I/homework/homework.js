@@ -1,10 +1,10 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = 'hola';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 'hola';
 
 // Crea una variable booleana:
 const nuevoBool = null;
@@ -212,7 +212,7 @@ function esVocal(letra){
 // No modificar nada debajo de esta línea
 // --------------------------------
 
-module.exports = {
+module.exports = 
   nuevaString,
   nuevoNum,
   nuevoBool,
@@ -245,5 +245,4 @@ module.exports = {
   retornarPerimetro,
   areaDelTriangulo,
   deEuroAdolar,
-  esVocal,
-};
+  esVocal
